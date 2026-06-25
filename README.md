@@ -1,4 +1,4 @@
 # E-Box Capstone Project
 
 
-## Team: Loading
+## Team name: Loading
